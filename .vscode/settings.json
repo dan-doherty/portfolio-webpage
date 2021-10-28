@@ -1,0 +1,15 @@
+{
+	"editor.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', monospace",
+	"editor.fontSize": 12,
+	"editor.tabSize": 2,
+	"editor.insertSpaces": false,
+	"editor.wordWrap": "wordWrapColumn",
+	"editor.bracketPairColorization.enabled": true,
+	"editor.defaultFormatter": "HookyQR.beautify",
+	"editor.detectIndentation": false,
+	"editor.foldingStrategy": "indentation",
+	"editor.guides.bracketPairs": true,
+	"editor.linkedEditing": true,
+	"editor.semanticHighlighting.enabled": true,
+	"editor.wordWrapColumn": 120
+}
